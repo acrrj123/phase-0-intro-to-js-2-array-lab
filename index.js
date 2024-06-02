@@ -1,4 +1,4 @@
-// Write your solution here!
+// Write your solution here! Run npm test in the terminal (npm install first if that doesn't work) 
 const cats = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendCat(name) {
